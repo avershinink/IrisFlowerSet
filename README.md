@@ -1,9 +1,9 @@
 # IrisFlowerSet
-Using NN on Iris flower data set 
+Using NN on Iris flower data set<br> 
 
-Data is sepal length, sepal width, petal length, petal width identifies iris species
-  sepal length, width, petal length, width
-[ 5.1         , 3.5  , 1.4         , 0.2  , 0, 0, 1 ])
- Iris virginica  = 1 0 0;
- Iris versicolor = 0 1 0;
- Iris setosa     = 0 0 1 
+Data is sepal length, sepal width, petal length, petal width identifies iris species<br>
+  sepal length, width, petal length, width<br>
+[ 5.1         , 3.5  , 1.4         , 0.2  , 0, 0, 1 ])<br>
+ Iris virginica  = 1 0 0;<br>
+ Iris versicolor = 0 1 0;<br>
+ Iris setosa     = 0 0 1 <br>
